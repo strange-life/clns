@@ -1,11 +1,15 @@
 {
   "name": "@madahapa/clns",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A utility for constructing className strings conditionally",
   "keywords": [
     "className"
   ],
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strange-life/clns.git"
+  },
   "type": "module",
   "exports": {
     ".": {
